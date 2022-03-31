@@ -1,0 +1,36 @@
+
+
+
+table{
+
+border-collapse: collapse;
+width: 45%;
+height: 20%;
+margin-left: auto;
+margin-right: auto;
+margin-top:40px;
+border:1px solid black;
+}
+
+td{
+border: 2px solid;
+}
+
+
+tr, td{
+    width: 100px;
+    height: 100px;
+}
+
+
+.whitebox{
+    background-color:white;
+}
+
+.blackbox{
+    background-color:black;
+}
+
+.bluebox{
+    background-color:blue;
+}
